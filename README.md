@@ -10,6 +10,8 @@ The provided Jupyter Notebook can be run directly. Pretrained models are availab
 - **vae3.pth** (Trained for 10 epochs)
 - **vae3_40.pth** (Trained for 40 epochs)
 
+- Other models for MLP, generators and classifier oracle are given in the models folder.
+
 Additional models may be used alongside `vae3.pth` to compare and analyze performance.
 
 ## Hyperparameters
